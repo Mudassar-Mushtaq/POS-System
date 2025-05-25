@@ -1,2 +1,2 @@
 # POS-System
-Uing Mern
+Using Mern
